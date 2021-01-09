@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#373231</color>
+    <color name="colorPrimaryDark">#e0947d</color>
+    <color name="colorAccent">#8b6c64</color>
+    <color name="darkBrown">#373231</color>
+    <color name="pinkBackground">#fef6f4</color>
+    <color name="brownishPink">#8b6c64</color>
+    <color name="blush">#b38171</color>
+
+    <color name="mood1">#F86D63</color>
+    <color name="mood2">#A2A2A2</color>
+    <color name="mood3">#406E93</color>
+    <color name="mood4">#F4F27D</color>
+    <color name="mood5">#B6EF60</color>
+
+
+</resources>
